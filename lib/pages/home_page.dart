@@ -26,7 +26,7 @@ class HomePageState extends State<HomePage> {
     super.initState();
   }
 
-  // Questo è il metodo build. È chiamato ogni volta che Flutter decide di ridisegnare il tuo widget.
+  // Metodo build. È chiamato ogni volta che Flutter decide di ridisegnare il tuo widget.
   @override
   Widget build(BuildContext context) {
     // Stai utilizzando il widget Scaffold per creare la struttura di base dell'app.
