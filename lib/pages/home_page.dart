@@ -13,8 +13,8 @@ class HomePage extends StatefulWidget {
 
 // Questo è lo stato del tuo widget HomePage. Può cambiare nel tempo, per esempio a causa di interazioni dell'utente.
 class HomePageState extends State<HomePage> {
-  // Questa è la variabile che stai utilizzando nel tuo stato.
-  // 'value' è un valore che ottieni dal widget HomePage quando viene inizializzato.
+  // Variabile che stai utilizzando nel tuo stato.
+  // Ottieni dal widget HomePage quando viene inizializzato.
   late int value;
 
   // initState è il primo metodo chiamato dopo che il widget è stato creato.
